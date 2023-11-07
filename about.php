@@ -75,6 +75,7 @@ font-size: 16px;">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod corporis explicabo recusandae quis, facilis non minus aliquam possimus soluta harum quidem aspernatur pariatur temporibus velit. Tenetur aperiam illo ipsam reprehenderit.
 
             </marquee>
+            <!-- Lorem ipsum, dolor sit amet consectetur -->
         </div>
     </section>
 
